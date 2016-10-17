@@ -4,15 +4,32 @@ Author: Anup Kumar Maharjan
 CSS DropDown with jQuery
 can be adjusted according to need
 ****************************/
+
+*,
+*:after,
+*:before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-family: "Geneva", Arial, sans-serif;
+    line-height: 1.35;
+}
+
 .hasSelect {
     padding: 15px;
 }
 
-.megaMenu {
+.dropDownMenu {
     position: relative;
 }
 
-.megaMenuShfiter {
+.dropDownMenuShfiter {
     background: #FFF;
     border: 1px solid transparent;
     border-top: 1px solid #bb0046;
@@ -32,16 +49,16 @@ can be adjusted according to need
     opacity: 0;
 }
 
-.megaMenuShfiter a {
+.dropDownMenuShfiter a {
     color: #363636;
 }
 
-.megaMenuShfiter ul {
+.dropDownMenuShfiter ul {
     list-style: none;
     padding-left: 0;
 }
 
-.megaMenuShfiter > ul {
+.dropDownMenuShfiter > ul {
     float: left;
     margin-bottom: 0;
     margin-top: 0;
@@ -52,7 +69,7 @@ can be adjusted according to need
     width: 100%;
 }
 
-.showMenu + .megaMenuShfiter {
+.showMenu + .dropDownMenuShfiter {
     /* display: block; */
     border: 1px solid #bb0046;
     max-height: 1200px;
@@ -64,14 +81,14 @@ can be adjusted according to need
     transition: 0.5s cubic-bezier(0.785, 0.135, 0.15, 0.86);
 }
 
-.megaMenuShfiter a.selected {
+.dropDownMenuShfiter a.selected {
     color: #bb0046;
     text-decoration: underline;
 }
 
 .showOnThis {
     background-color: #FFF;
-    background-image: url("../images/dropArrow.png");
+    /* background-image: url("../images/dropArrow.png"); */
     background-position: right 10px center;
     background-repeat: no-repeat;
     background-size: 25px;
@@ -93,6 +110,25 @@ can be adjusted according to need
     white-space: nowrap;
 }
 
+.showOnThis:after {
+    content: "\f123";
+    display: inline-block;
+    font-family: "Ionicons";
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-rendering: auto;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    float: right;
+    color: #BB0046;
+    position: absolute;
+    right: 15px;
+}
+
 .filterSection label.showOnThis {
     color: #555;
     font-weight: 400;
@@ -103,7 +139,11 @@ can be adjusted according to need
 }
 
 .showOnThis.showMenu {
-    background-image: url("../images/dropArrowGreen.png");
+    /* background-image: url("../images/dropArrowGreen.png"); */
+}
+
+.showOnThis.showMenu:after {
+    color: #09D59D;
 }
 
 .parentlevel {
@@ -124,10 +164,11 @@ can be adjusted according to need
     position: relative;
     width: 100%;
 }
+
 .firsttext a,
 .firsttext,
 .parentlevel > ul,
-.megaMenuShfiter ul li {
+.dropDownMenuShfiter ul li {
     -webkit-transition: left 600ms cubic-bezier(0.785, 0.135, 0.15, 0.86), 300ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
     -moz-transition: left 600ms cubic-bezier(0.785, 0.135, 0.15, 0.86), 300ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
     -ms-transition: left 600ms cubic-bezier(0.785, 0.135, 0.15, 0.86), 300ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
@@ -204,30 +245,68 @@ can be adjusted according to need
     right: 0;
     top: 0;
     width: 32px;
+    
+    font-family: "Ionicons";
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-rendering: auto;
 }
 
 .forth {
-    background-image: url("../images/rightCheveron.png");
+    /* background-image: url("../images/rightCheveron.png"); */
 }
 
 .back {
-    background-image: url("../images/leftChevron.png");
+    /* background-image: url("../images/leftChevron.png"); */
     display: none;
     left: 0;
     right: auto;
     top: 0;
 }
 
+.forth:before,
+.back:before {
+    content: "";
+    font-size: 14px;
+    display: inline-block;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #BB0046;
+    position: absolute;
+    top: 50%;
+    margin-top: -3.5px;
+}
+
+.forth:before {
+    content: "\f125";
+    right: 10px;
+}
+
+.back:before {
+    content: "\f124";
+    left: 10px;
+}
+
 .back+a {
     padding-left: 30px;
 }
 
-.firsttext:hover .forth {
+
+/* .firsttext:hover .forth {
     background-image: url("../images/rightCheveronGreen.png");
 }
 
 .firsttext:hover .back {
     background-image: url("../images/leftChevronGreen.png");
+} */
+
+.firsttext:hover .forth:after,
+.firsttext:hover .back:after {
+    color: #09D59D;
 }
 
 .openedThis > .firsttext .forth {
