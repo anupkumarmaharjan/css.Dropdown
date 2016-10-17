@@ -1,0 +1,1539 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"parent",
+				"parentlevel"
+			],
+			[
+				"paretn",
+				"parentlevel"
+			],
+			[
+				"outer",
+				"outerHeight\t.outerHeight()"
+			],
+			[
+				"sid",
+				"sidebarHanged"
+			],
+			[
+				"trin",
+				"triangled\t menuBar.css"
+			],
+			[
+				"or",
+				"orangetxt\t menuBar.css"
+			],
+			[
+				"into",
+				"introText\t menuBar.css"
+			],
+			[
+				"selecte",
+				"selectedInfo\t menuBar.css"
+			],
+			[
+				"ngo",
+				"ngoController\t menuBar.css"
+			],
+			[
+				"if",
+				"if\tTwig : If"
+			],
+			[
+				"fL",
+				"fl\t custom.css"
+			],
+			[
+				"adju",
+				"adjustHeight"
+			],
+			[
+				"full",
+				"fullwidth\t main.min.css"
+			],
+			[
+				"color",
+				"color-img-condition\t main.min.css"
+			],
+			[
+				"content",
+				"content-block\t main.min.css"
+			],
+			[
+				"conte",
+				"content-block\t main.min.css"
+			],
+			[
+				"bol",
+				"boldnum\t menuBar.css"
+			],
+			[
+				"back",
+				"backgrounds"
+			],
+			[
+				"tag",
+				"target\tAttr"
+			],
+			[
+				"ema",
+				"ema-partnership\t custom.css"
+			],
+			[
+				"no",
+				"nobg-numblock\t menuBar.css"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"has",
+				"hasClass\t.hasClass()"
+			],
+			[
+				"kon",
+				"kontakt-sideBlock"
+			],
+			[
+				"remo",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"banner",
+				"bannerwrapper"
+			],
+			[
+				"dib",
+				"d-ib+\tdisplay: inline-block;\n*display: inline;\n*zoom: 1;"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"tab",
+				"tablepress"
+			],
+			[
+				"url",
+				"url()"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"short",
+				"short_title"
+			],
+			[
+				"bkgr",
+				"background"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"bck",
+				"background-image"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 7201,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "humans.txt",
+			"settings":
+			{
+				"buffer_size": 459,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/normalize.css",
+			"settings":
+			{
+				"buffer_size": 260,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 5070,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 2406,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "css",
+		"selected_items":
+		[
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ire",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"php",
+				"phpfmt: toggle additional transformations"
+			],
+			[
+				"new",
+				"File: New View into File"
+			],
+			[
+				"irein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"css3",
+				"Set Syntax: CSS3"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sscs",
+				"Set Syntax: CSS"
+			],
+			[
+				"setcss",
+				"Set Syntax: CSS"
+			],
+			[
+				"html",
+				"HTML Minfier: Minify File (create new)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"minf",
+				"Minify Javascript to file"
+			],
+			[
+				"minfi",
+				"Minify Javascript"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"white",
+				"Whitespace: Remove Trailing Whitespace"
+			],
+			[
+				"ssc",
+				"Set Syntax: CSS"
+			],
+			[
+				"",
+				"BracketHighlighter: Enable Debug Mode"
+			],
+			[
+				"phpfmt",
+				"phpfmt: toggle additional transformations"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ist",
+				"Package Control: Install Package"
+			],
+			[
+				"isn",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ista",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/server/www/anupdron",
+		"/E/server/www/anupdron/css",
+		"/E/server/www/anupdron/js"
+	],
+	"file_history":
+	[
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/base.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/footer.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/html-header.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/js/custom.js",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/assets/css/admin/admin.css",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/secondee_sidebar.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/single_secondee.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/single-secondee.php",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/single-ngopartners.php",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/css/menuBar.css",
+		"/E/server/www/jjcct/wp-content/mu-plugins/bootstrap.php",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/functions.php",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/partners_sidebar.twig",
+		"/E/server/www/jjcct/humans.txt",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/single_ngopartners.twig",
+		"/E/server/www/jjcct/wp-config.php",
+		"/E/server/www/jjcct/wp-includes/js/tinymce/skins/wordpress/wp-content.css",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/css/custom.css",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/trust_secondment-program.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/shareBox.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/style.css",
+		"/E/server/www/jjcct/wp-content/plugins/timber/timber-starter-theme/views/base.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/secondeeGeneralContent.twig",
+		"/E/server/www/jjcct/wp-content/plugins/timber/functions/timber-image-helper.php",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/assets/images/people.svg",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/page-trust-secondment-program.php",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/single-programs.php",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/secondment_people.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/lib/custom.php",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/page-people.php",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/images/secondmentIcon.svg",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/images/ngoIcon.svg",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/trust_secondments.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/home.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/page-people.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/common_acf.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/page_banner.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/ngopartner_detail_banner.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/news_detail_banner.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/nav.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/mobileHeader.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/common-banner.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/banner.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/partnerships.twig",
+		"/E/server/www/jjcct/wp-content/debug.log",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/two_column_csr.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/our_focus.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/flagship_partners.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/full_width_image_content.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/pillar_map.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/two_column_people.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/right_image_video.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/single_column.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/image_logo_content.twig",
+		"/C/Users/anup.maharjan/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/two_column_award.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/three_column.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/columns_repeater_image.twig",
+		"/C/Users/anup.maharjan/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/page-trust-awards.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/strategy.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/investment.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/twenty.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/video.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/infographics.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/full_width_left_image.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/right_image_content.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/team.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/quote.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/assets/css/style.css",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/assets/css/forie.css",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/page.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/assets/css/main.min.css.orig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/assets/css/main.min.css",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/infographics_home.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/js/pie-chart.js",
+		"/C/Users/anup.maharjan/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/page-trust-awards.php",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/js/pie-chart.min.js",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/js/bootstrap-select.min.js",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/js/bootstrap-select.js",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/news.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/gulpfile.js",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/style.min.css",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/css/bootstrap-select.min.css",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/css/bootstrap-select.css",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/assets/js/ZeroClipboard.min.js",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/assets/js/ZeroClipboard.js",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/assets/css/style.min.css",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/assets/css/admin/editor-style.css",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/search.php",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/search.twig",
+		"/E/server/www/jjcct/gulpfile.js",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/page-news.php",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/sidebar2.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/sidebar.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/404.twig",
+		"/E/server/www/jjcct/node_modules/gulp-less/test/fixtures/variables.less",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/single.twig",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/css/bootstrap.css",
+		"/E/server/www/jjcct/wp-content/plugins/disqus-comment-system/manage.php",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/views/news_detail_page.twig",
+		"/E/server/www/jjcct/wp-content/plugins/gravityforms/fonts/fontawesome-webfont.svg",
+		"/E/server/www/jjcct/wp-content/themes/jjcct/images/jjcctlogo.svg",
+		"/E/server/www/onzo/wp-content/themes/ONZO/js/custom.js",
+		"/E/server/www/onzo/wp-content/themes/ONZO/functions.php",
+		"/E/server/www/onzo/index.php",
+		"/E/server/www/onzo/gulpfile.js",
+		"/E/server/www/onzo/wp-content/themes/ONZO/friday.php",
+		"/E/server/www/onzo/wp-content/themes/ONZO/css/custom.css",
+		"/E/server/www/onzo/wp-content/themes/ONZO/header.php",
+		"/E/server/www/onzo/wp-config.php",
+		"/E/server/www/onzo/.htaccess",
+		"/E/sublimepackages/onzoresponsive.sublime-project",
+		"/E/server/www/onzo/wp-content/debug.log",
+		"/D/xampp/htdocs/onzo/wp-content/themes/ONZO/about.php",
+		"/D/xampp/htdocs/onzo/wp-content/themes/ONZO/infoevent.php",
+		"/D/xampp/htdocs/onzo/wp-content/plugins/w3-total-cache/lib/W3/Widget/SpreadTheWord.php",
+		"/D/xampp/htdocs/onzo/wp-content/themes/ONZO/header.php",
+		"/D/xampp/htdocs/onzo/wp-content/themes/ONZO/js/custom.js",
+		"/D/xampp/htdocs/onzo/wp-content/themes/ONZO/assets/css/forie.css",
+		"/D/xampp/htdocs/onzo/wp-content/themes/ONZO/css/forie.css",
+		"/D/xampp/htdocs/onzo/wp-content/themes/ONZO/_catering.php",
+		"/D/xampp/htdocs/onzo/wp-content/themes/ONZO/_event.php",
+		"/D/xampp/htdocs/onzo/wp-content/themes/ONZO/functions.php",
+		"/D/xampp/htdocs/onzo/wp-content/themes/ONZO/event.php",
+		"/D/xampp/htdocs/onzo/wp-content/themes/ONZO/editor-style.css",
+		"/D/xampp/htdocs/onzo/wp-content/themes/ONZO/functions_2014_07_06.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 249.0,
+		"where_history":
+		[
+			"E:\\server\\www\\jjcct\\wp-content\\themes\\jjcct\\",
+			"D:\\xampp\\htdocs\\jjcct\\wp-content\\themes\\jjcct\\",
+			"",
+			"D:\\xampp\\htdocs\\onzo",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			":after",
+			"megaMenu",
+			"temaresor",
+			"3s",
+			"cubic-bezier(0.175, 0.885, 0.32, 1.275)",
+			"5s",
+			"300ms",
+			"left 600ms cubic-bezier(0.785, 0.135, 0.15, 0.86)",
+			"\n                            <!-- \n                            <li class=\"\">\n                                <div class=\"firsttext\"><span class=\"menuControl back\">Go Back</span><a href=\"javascript:void()\">Level One</a></div>\n                            </li> -->",
+			"/* ",
+			"//",
+			"Three",
+			"fourthlevel",
+			"thirdlevel",
+			"secondlevel",
+			"firstlevel",
+			"level\"",
+			"ht",
+			".parentlevel.openedThis>ul",
+			"First Level",
+			"\n                            <li class=\"secondlevel\">\n                                <div class=\"firsttext\"><span class=\"menuControl back\">Go Back</span><a href=\"javascript:void()\">Level One</a></div>\n                            </li>",
+			"\n                            <li class=\"secondlevel\">\n                                <div class=\"firsttext\"><span class=\"menuControl back\">Go Back</span><a href=\"javascript:void()\">First Level</a></div>\n                            </li>",
+			"Japan",
+			"Asien",
+			"Europa",
+			"Polarområdena",
+			"Oceanien",
+			"Sydamerika",
+			"Nigeria City 1",
+			"Nigeria",
+			"Afrika",
+			".trustSecondmentProgramPage h4",
+			".trustSecondment.po",
+			"h4.quote",
+			"inheri",
+			"h4.quoteContent",
+			".singleSecondee .news-right-bar",
+			"53px",
+			".secondeeHighlightsRepeater .middleContent",
+			"53px",
+			"tria",
+			".secondmentImpact",
+			"22px",
+			"localhost",
+			"178",
+			"wp_",
+			"@med",
+			"767",
+			"100%",
+			"large",
+			"big",
+			".secondmentImpact",
+			"img src",
+			".nameWrapper",
+			"highlightedBar h4.heading",
+			"h4.head",
+			"projectHi",
+			".highlightedBar h4.heading",
+			".highlightedBar h4.heading.",
+			".highlightedBar h4.heading",
+			"projectHighlighted",
+			"projectHighlighted.lessCondtion",
+			"projectHighlighted",
+			"@m",
+			"20",
+			"20px",
+			"44",
+			"146px",
+			"176",
+			"secondmentImpact.secondment-impact",
+			"85px",
+			"26",
+			"40px",
+			"30px",
+			"40px",
+			"20px",
+			"<span>",
+			"150",
+			"emea",
+			"div",
+			"117",
+			"{{partnerdetail | print_r}}",
+			"responsible_person_image",
+			"responsible_person",
+			"inheri",
+			"ul li",
+			"ul lo",
+			"ul lli",
+			"single-ngo",
+			"@m",
+			"trustse",
+			".partner-value-wrapper span.value",
+			"listStat",
+			"16px",
+			".trustSecondmentProgramPage h4",
+			"1023",
+			".newSecondmentLink figure",
+			"post.forth_block_upload_file",
+			"getimage",
+			"getimage.right_image",
+			"right_image",
+			"1023",
+			"'posts_per_page'",
+			"'posts_per_page'=> 5",
+			"secondment_people",
+			"'ngopartners'",
+			"'post_type' => 'ngopartners',",
+			"1176px",
+			"ngoIcon",
+			"sm",
+			".trustSecondmentProgramPage h4",
+			"righthand_image",
+			"side bar content",
+			"forth_block_content",
+			"section",
+			"min-hei",
+			"15px",
+			"0 15px",
+			"0",
+			"sm",
+			"newIconAdded .col-",
+			"15",
+			"1023",
+			"cover",
+			"280px",
+			"767px",
+			"320px",
+			"5px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<?php"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7201,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								300,
+								300
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/GitHub (SL).tmTheme",
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "humans.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 459,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								373,
+								373
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"is_xml": false,
+							"open_with_edit": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/normalize.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								260
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"auto_indent": true,
+							"color_scheme": "Packages/User/Color Highlighter/themes/GitHub (SL).tmTheme",
+							"open_with_edit": true,
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5070,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								5070
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"auto_indent": true,
+							"color_scheme": "Packages/User/Color Highlighter/themes/GitHub (SL).tmTheme",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5133.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2406,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								2406
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/GitHub (SL).tmTheme",
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 690.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "cssJqueryDropdown.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"menba",
+				"wp-content\\themes\\jjcct\\css\\menuBar.css"
+			],
+			[
+				"bastw",
+				"wp-content\\themes\\jjcct\\views\\base.twig"
+			],
+			[
+				"footw",
+				"wp-content\\themes\\jjcct\\views\\footer.twig"
+			],
+			[
+				"htm",
+				"wp-content\\themes\\jjcct\\views\\html-header.twig"
+			],
+			[
+				"menb",
+				"wp-content\\themes\\jjcct\\css\\menuBar.css"
+			],
+			[
+				"htmhe",
+				"wp-content\\themes\\jjcct\\views\\html-header.twig"
+			],
+			[
+				"admincss",
+				"wp-content\\themes\\jjcct\\assets\\css\\admin\\admin.css"
+			],
+			[
+				"wpcon",
+				"wp-config.php"
+			],
+			[
+				"wp-cont",
+				"wp-includes\\js\\tinymce\\skins\\wordpress\\wp-content.css"
+			],
+			[
+				"cusjs",
+				"wp-content\\themes\\jjcct\\js\\custom.js"
+			],
+			[
+				"seocnsi",
+				"wp-content\\themes\\jjcct\\views\\secondee_sidebar.twig"
+			],
+			[
+				"partsi",
+				"wp-content\\themes\\jjcct\\views\\partners_sidebar.twig"
+			],
+			[
+				"huma",
+				"humans.txt"
+			],
+			[
+				"styl",
+				"wp-content\\themes\\jjcct\\style.css"
+			],
+			[
+				"batw",
+				"wp-content\\themes\\jjcct\\views\\base.twig"
+			],
+			[
+				"themcustom",
+				"wp-content\\themes\\jjcct\\js\\custom.js"
+			],
+			[
+				"bsatw",
+				"wp-content\\plugins\\timber\\timber-starter-theme\\views\\base.twig"
+			],
+			[
+				"single",
+				"wp-content\\themes\\jjcct\\single-ngopartners.php"
+			],
+			[
+				"singge",
+				"wp-content\\themes\\jjcct\\views\\single_general_content.twig"
+			],
+			[
+				"function",
+				"wp-content\\themes\\jjcct\\functions.php"
+			],
+			[
+				"singngo",
+				"wp-content\\themes\\jjcct\\single-ngopartners.php"
+			],
+			[
+				"singngtw",
+				"wp-content\\themes\\jjcct\\views\\single_ngopartners.twig"
+			],
+			[
+				"ngopar",
+				"wp-content\\themes\\jjcct\\single-ngopartners.php"
+			],
+			[
+				"sharetwi",
+				"wp-content\\themes\\jjcct\\views\\shareBox.twig"
+			],
+			[
+				"peop",
+				"wp-content\\themes\\jjcct\\assets\\images\\people.svg"
+			],
+			[
+				"pagepe",
+				"wp-content\\themes\\jjcct\\page-people.php"
+			],
+			[
+				"people",
+				"wp-content\\themes\\jjcct\\views\\secondment_people.twig"
+			],
+			[
+				"singlpe",
+				"wp-content\\themes\\jjcct\\single-programs.php"
+			],
+			[
+				"peopl",
+				"wp-content\\themes\\jjcct\\page-people.php"
+			],
+			[
+				"page-tr",
+				"wp-content\\themes\\jjcct\\page-trust-secondment-program.php"
+			],
+			[
+				"secoic",
+				"wp-content\\themes\\jjcct\\images\\secondmentIcon.svg"
+			],
+			[
+				"ng",
+				"wp-content\\themes\\jjcct\\images\\ngoIcon.svg"
+			],
+			[
+				"fucn",
+				"wp-content\\themes\\jjcct\\functions.php"
+			],
+			[
+				"menbar",
+				"wp-content\\themes\\jjcct\\css\\menuBar.css"
+			],
+			[
+				"peo",
+				"wp-content\\themes\\jjcct\\views\\page-people.twig"
+			],
+			[
+				"secondment_people",
+				"wp-content\\themes\\jjcct\\views\\secondment_people.twig"
+			],
+			[
+				"commoac",
+				"wp-content\\themes\\jjcct\\views\\common_acf.twig"
+			],
+			[
+				"func",
+				"wp-content\\themes\\jjcct\\functions.php"
+			],
+			[
+				"trust_secondments.twig",
+				"wp-content\\themes\\jjcct\\views\\trust_secondments.twig"
+			],
+			[
+				"homtw",
+				"wp-content\\themes\\jjcct\\views\\home.twig"
+			],
+			[
+				"customcss",
+				"wp-content\\themes\\jjcct\\css\\custom.css"
+			],
+			[
+				"partners_sidebar",
+				"wp-content\\themes\\jjcct\\views\\partners_sidebar.twig"
+			],
+			[
+				"parter",
+				"wp-content\\themes\\jjcct\\views\\partnerships.twig"
+			],
+			[
+				"debu",
+				"wp-content\\debug.log"
+			],
+			[
+				"wpcong",
+				"wp-config.php"
+			],
+			[
+				"partners",
+				"wp-content\\themes\\jjcct\\views\\partnerships.twig"
+			],
+			[
+				"banne",
+				"wp-content\\themes\\jjcct\\views\\banner.twig"
+			],
+			[
+				"navtw",
+				"wp-content\\themes\\jjcct\\views\\nav.twig"
+			],
+			[
+				"htmh",
+				"wp-content\\themes\\jjcct\\views\\html-header.twig"
+			],
+			[
+				"custom.js",
+				"wp-content\\themes\\jjcct\\js\\custom.js"
+			],
+			[
+				"pilla",
+				"wp-content\\themes\\jjcct\\views\\pillar_map.twig"
+			],
+			[
+				"tcustomjs",
+				"wp-content\\themes\\jjcct\\js\\custom.js"
+			],
+			[
+				"ourfo",
+				"wp-content\\themes\\jjcct\\views\\our_focus.twig"
+			],
+			[
+				"single_column",
+				"wp-content\\themes\\jjcct\\views\\single_column.twig"
+			],
+			[
+				"footwt",
+				"wp-content\\themes\\jjcct\\views\\footer.twig"
+			],
+			[
+				"baste",
+				"wp-content\\themes\\jjcct\\views\\base.twig"
+			],
+			[
+				"cusocss",
+				"wp-content\\themes\\jjcct\\css\\custom.css"
+			],
+			[
+				"twococs",
+				"wp-content\\themes\\jjcct\\views\\two_column_csr.twig"
+			],
+			[
+				"customphp",
+				"wp-content\\themes\\jjcct\\lib\\custom.php"
+			],
+			[
+				"wp-c",
+				"wp-config.php"
+			],
+			[
+				"quote",
+				"wp-content\\themes\\jjcct\\views\\quote.twig"
+			],
+			[
+				"team",
+				"wp-content\\themes\\jjcct\\views\\team.twig"
+			],
+			[
+				"image_logo_content",
+				"wp-content\\themes\\jjcct\\views\\image_logo_content.twig"
+			],
+			[
+				"right_image_video",
+				"wp-content\\themes\\jjcct\\views\\right_image_video.twig"
+			],
+			[
+				"right_image_content",
+				"wp-content\\themes\\jjcct\\views\\right_image_content.twig"
+			],
+			[
+				"full_width_left_image",
+				"wp-content\\themes\\jjcct\\views\\full_width_left_image.twig"
+			],
+			[
+				"full_width_image_content",
+				"wp-content\\themes\\jjcct\\views\\full_width_image_content.twig"
+			],
+			[
+				"partnerships",
+				"wp-content\\themes\\jjcct\\views\\partnerships.twig"
+			],
+			[
+				"flagship_partners",
+				"wp-content\\themes\\jjcct\\views\\flagship_partners.twig"
+			],
+			[
+				"infographics",
+				"wp-content\\themes\\jjcct\\views\\infographics.twig"
+			],
+			[
+				"video",
+				"wp-content\\themes\\jjcct\\views\\video.twig"
+			],
+			[
+				"trust_secondments",
+				"wp-content\\themes\\jjcct\\views\\trust_secondments.twig"
+			],
+			[
+				"our_focus",
+				"wp-content\\themes\\jjcct\\views\\our_focus.twig"
+			],
+			[
+				"twenty",
+				"wp-content\\themes\\jjcct\\views\\twenty.twig"
+			],
+			[
+				"columns_repeater_image",
+				"wp-content\\themes\\jjcct\\views\\columns_repeater_image.twig"
+			],
+			[
+				"three_column",
+				"wp-content\\themes\\jjcct\\views\\three_column.twig"
+			],
+			[
+				"two_column_csr",
+				"wp-content\\themes\\jjcct\\views\\two_column_csr.twig"
+			],
+			[
+				"two_column_people",
+				"wp-content\\themes\\jjcct\\views\\two_column_people.twig"
+			],
+			[
+				"two_column_award",
+				"wp-content\\themes\\jjcct\\views\\two_column_award.twig"
+			],
+			[
+				"investment",
+				"wp-content\\themes\\jjcct\\views\\investment.twig"
+			],
+			[
+				"strategy",
+				"wp-content\\themes\\jjcct\\views\\strategy.twig"
+			],
+			[
+				"banner",
+				"wp-content\\themes\\jjcct\\views\\banner.twig"
+			],
+			[
+				"part",
+				"wp-content\\themes\\jjcct\\views\\partnerships.twig"
+			],
+			[
+				"patrutw",
+				"wp-content\\themes\\jjcct\\views\\page-trust-awards.twig"
+			],
+			[
+				"trust",
+				"wp-content\\themes\\jjcct\\page-trust-awards.php"
+			],
+			[
+				"page",
+				"wp-content\\themes\\jjcct\\views\\page.twig"
+			],
+			[
+				"pie-chart.js",
+				"wp-content\\themes\\jjcct\\js\\pie-chart.js"
+			],
+			[
+				"info",
+				"wp-content\\themes\\jjcct\\views\\infographics.twig"
+			],
+			[
+				"righ",
+				"wp-content\\themes\\jjcct\\views\\right_image_content.twig"
+			],
+			[
+				"page_banner",
+				"wp-content\\themes\\jjcct\\views\\page_banner.twig"
+			],
+			[
+				"stra",
+				"wp-content\\themes\\jjcct\\views\\strategy.twig"
+			],
+			[
+				"admcss",
+				"wp-content\\themes\\jjcct\\assets\\css\\admin\\admin.css"
+			],
+			[
+				"rightimageconten",
+				"wp-content\\themes\\jjcct\\views\\right_image_content.twig"
+			],
+			[
+				"forie",
+				"wp-content\\themes\\jjcct\\assets\\css\\forie.css"
+			],
+			[
+				"headtwi",
+				"wp-content\\themes\\jjcct\\views\\html-header.twig"
+			],
+			[
+				"cujs",
+				"wp-content\\themes\\jjcct\\js\\custom.js"
+			],
+			[
+				"thecustcss",
+				"wp-content\\themes\\jjcct\\css\\custom.css"
+			],
+			[
+				"bas",
+				"wp-content\\themes\\jjcct\\views\\base.twig"
+			],
+			[
+				"",
+				"wp-content\\themes\\jjcct\\js\\custom.js"
+			],
+			[
+				"base",
+				"wp-content\\themes\\jjcct\\views\\base.twig"
+			],
+			[
+				"themcustomjs",
+				"wp-content\\themes\\jjcct\\js\\custom.js"
+			],
+			[
+				"gulf",
+				"wp-content\\themes\\jjcct\\gulpfile.js"
+			],
+			[
+				"gu",
+				"wp-content\\themes\\jjcct\\gulpfile.js"
+			],
+			[
+				"hetw",
+				"wp-content\\themes\\jjcct\\views\\html-header.twig"
+			],
+			[
+				"custophp",
+				"wp-content\\themes\\jjcct\\lib\\custom.php"
+			],
+			[
+				"news",
+				"wp-content\\themes\\jjcct\\views\\news.twig"
+			],
+			[
+				"pillarmap",
+				"wp-content\\themes\\jjcct\\views\\pillar_map.twig"
+			],
+			[
+				"par",
+				"wp-content\\themes\\jjcct\\views\\partnerships.twig"
+			],
+			[
+				"style",
+				"wp-content\\themes\\jjcct\\style.css"
+			],
+			[
+				"zeroclipboard",
+				"wp-content\\themes\\jjcct\\assets\\js\\ZeroClipboard.js"
+			],
+			[
+				"bselcss",
+				"wp-content\\themes\\jjcct\\css\\bootstrap-select.css"
+			],
+			[
+				"pie",
+				"wp-content\\themes\\jjcct\\js\\pie-chart.js"
+			],
+			[
+				"bootse",
+				"wp-content\\themes\\jjcct\\js\\bootstrap-select.js"
+			],
+			[
+				"pillam",
+				"wp-content\\themes\\jjcct\\views\\pillar_map.twig"
+			],
+			[
+				"parte",
+				"wp-content\\themes\\jjcct\\views\\partnerships.twig"
+			],
+			[
+				"hadtw",
+				"E:\\server\\www\\jjcct\\wp-content\\themes\\jjcct\\views\\mobileHeader.twig"
+			],
+			[
+				"heatw",
+				"wp-content\\themes\\jjcct\\views\\html-header.twig"
+			],
+			[
+				"headtw",
+				"wp-content\\themes\\jjcct\\views\\mobileHeader.twig"
+			],
+			[
+				"edits",
+				"wp-content\\themes\\jjcct\\assets\\css\\admin\\editor-style.css"
+			],
+			[
+				"cuscss",
+				"wp-content\\themes\\jjcct\\css\\custom.css"
+			],
+			[
+				"editosty",
+				"wp-content\\themes\\jjcct\\assets\\css\\admin\\editor-style.css"
+			],
+			[
+				"booscss",
+				"wp-content\\themes\\jjcct\\css\\bootstrap.css"
+			],
+			[
+				"seartw",
+				"wp-content\\themes\\jjcct\\views\\search.twig"
+			],
+			[
+				"404tw",
+				"wp-content\\themes\\jjcct\\views\\404.twig"
+			],
+			[
+				"sidebar",
+				"wp-content\\themes\\jjcct\\views\\sidebar.twig"
+			],
+			[
+				"partw",
+				"wp-content\\themes\\jjcct\\views\\partnerships.twig"
+			],
+			[
+				"sidebatw",
+				"wp-content\\themes\\jjcct\\views\\sidebar2.twig"
+			],
+			[
+				"sidebartw",
+				"wp-content\\themes\\jjcct\\views\\sidebar.twig"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "eattn",
+		"selected_items":
+		[
+			[
+				"eattn",
+				"E:\\sublimepackages\\eattendance_newSKin.sublime-project"
+			],
+			[
+				"ghar",
+				"E:\\sublimepackages\\gharbazarlocalhost.sublime-project"
+			],
+			[
+				"hbt",
+				"E:\\sublimepackages\\hbtqfamiljer.sublime-project"
+			],
+			[
+				"ma",
+				"E:\\sublimepackages\\maskrosbarn.sublime-project"
+			],
+			[
+				"rum",
+				"E:\\sublimepackages\\rum.sublime-project"
+			],
+			[
+				"siwn",
+				"E:\\sublimepackages\\siwinew.sublime-workspace"
+			],
+			[
+				"",
+				"E:\\sublimepackages\\siwinew.sublime-workspace"
+			],
+			[
+				"siwi",
+				"E:\\sublimepackages\\siwinew.sublime-workspace"
+			],
+			[
+				"siw",
+				"E:\\sublimepackages\\siwi.sublime-workspace"
+			],
+			[
+				"gh",
+				"E:\\sublimepackages\\ghpnew.sublime-project"
+			],
+			[
+				"sth",
+				"E:\\sublimepackages\\sthlmuniwebsite.sublime-project"
+			],
+			[
+				"mderi",
+				"D:\\sublimepackages\\medirox.sublime-project"
+			],
+			[
+				"overs",
+				"D:\\sublimepackages\\overenskommelsen-intranet.sublime-project"
+			],
+			[
+				"medi",
+				"D:\\sublimepackages\\medirox.sublime-project"
+			],
+			[
+				"bip",
+				"D:\\sublimepackages\\core-bip.sublime-workspace"
+			],
+			[
+				"corei",
+				"D:\\sublimepackages\\core-bip.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

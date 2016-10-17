@@ -1,0 +1,18 @@
+_______________________________________________________________________________
+
+/* TEAM */
+  Title: Anup Kumar Maharjan
+  Site: http://www.anupkmaharjan.com.np
+  Twitter: @anupkmaharjan
+  Location: Thecho-4, Lalitpur
+
+
+/* CSS MULTIPLE DROPDOWN MENU */
+  Last Update: 2016/10/06
+  Components: CSS 3, jQuery
+  Software: Sublime Text 3
+
+/* THANKS */
+  Name: http://www.github.com
+
+_______________________________________________________________________________
